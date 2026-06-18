@@ -36,9 +36,6 @@
  *    - ESP8266WebServer (included with ESP8266 board package)
  *
  *  Board setting: "NodeMCU 1.0 (ESP-12E Module)"
- *
- *  Author : NGSRP Team — Sri Sai Ram Engineering College
- *  Version: 1.0.0
  * ============================================================
  */
 
