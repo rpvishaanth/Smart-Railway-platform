@@ -15,9 +15,14 @@ The **Next-Gen Smart Railway Platform (NGSRP)** is an IoT-based system designed 
 
 The system is especially beneficial for **elderly passengers and persons with disabilities (PWD)**, eliminating the need for overhead footbridges and staircases.
 
-> 
-
 ---
+
+## 🔬 Publication & Research Paper
+The core architecture and research behind this project have been formally peer-reviewed and published:
+
+* **Paper Title:** *Smart Railway Platform with Train Arrival Detection*
+* **Journal:** International Journal of Microsystems and IoT (Volume 2, Issue 3)
+* **Official Link:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.10842058-blue.svg?style=flat-square)](https://doi.org/10.5281/zenodo.10842058)
 
 ## 🗺️ System Architecture
 
