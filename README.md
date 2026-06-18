@@ -1,9 +1,4 @@
 # Smart-Railway-platform
-# 🚉 Next-Gen Smart Railway Platform (NGSRP)
-
-<p align="center">
-  <img src="system_block_diagram.png" alt="NGSRP System Block Diagram" width="80%"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Arduino%20Uno%20%7C%20ESP8266-blue?style=for-the-badge&logo=arduino"/>
@@ -20,7 +15,7 @@ The **Next-Gen Smart Railway Platform (NGSRP)** is an IoT-based system designed 
 
 The system is especially beneficial for **elderly passengers and persons with disabilities (PWD)**, eliminating the need for overhead footbridges and staircases.
 
-> **Research Paper:** *"Next-Gen Smart Railway Platform with API Integration"* — Published at Dronacharya Conference, Sri Sai Ram Engineering College, Chennai, India.
+> 
 
 ---
 
